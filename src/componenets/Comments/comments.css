@@ -1,0 +1,10 @@
+
+.commnet-img{
+    border-radius: 50%;
+    /* text-align:center ; */
+    margin: 0 auto;
+    display: block;
+    width: 70px;
+    height: 70px;
+
+}
